@@ -5,7 +5,8 @@
 
 #### 软件架构
 软件架构说明
-
+[百度脑图地址](http://naotu.baidu.com/file/59d4a280cc471e5ba9c8ceba1e3f9122?token=d908c96739607b1c)
+![脑图](./mindPNG.png)
 
 #### 安装教程
 
